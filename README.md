@@ -1,7 +1,7 @@
 # BankingAppUI
 A UI based on BankingApp designed using React-native. 
 ## DESIGN LINK : 
-[Inspiration](https://dribbble.com/shots/15233109-Z-Bank-Mobile-Application)
+[Inspiration](https://dribbble.com/shots/15184755-Z-Bank-Mobile-Application)
 ## App Screenshots : 
 ### Home-Screen -
 <img width=200 src=""></img>
