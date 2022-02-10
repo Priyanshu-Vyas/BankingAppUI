@@ -1,0 +1,15 @@
+Since most are having rescheduled classes today, let’s cancel today’s class. 
+But you will get an assignment with a week's time for submission. (Tuseday 23:59)
+*Assignment - *
+Create a mobile Banking App UI. You need to use 
+
+ScrollView, ActivityIndicator and Modal. You can use FlatList if you want. 
+
+Read the documentation for this one to understand things. 
+Prefer not to watch a video. If you do get issues in understanding the documentation, ask us. We will help you out.
+An example is something like this- 
+https://dribbble.com/shots/17409666-Investkan-Investment-Bank-Mobile-App/attachments/12536816?mode=media
+
+You don’t need to make multiple pages but the Home/Dashboard one. 
+Same instructions as before, search for UI on dribble, put link and SS in your Readme. 
+Contact us if you get into any issue.
